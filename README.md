@@ -1,23 +1,23 @@
 # AN FCN-BASED APPROACH TO DETECTING SOUTH INDIAN CUISINES
 ### South-Indian-food-Segmentation-and-Polygon-Annotation
 
-##  Dataset Structure
+## Dataset Structure
+
+
 SouthFoods/
 │
 ├── train/
-      ├── train_annotations
-      ├── food1
-      ├── food2
-      .
-      .
-      .
+│   ├── train_annotations/
+│   ├── food1/
+│   ├── food2/
+│   └── ...
+│
 ├── val/
-      ├── test_annotations
-      ├── food1
-      ├── food2
-      .
-      .
-      .
+│   ├── test_annotations/
+│   ├── food1/
+│   ├── food2/
+│   └── ...
+
 
 ## Run This Project on Google Colab
 
