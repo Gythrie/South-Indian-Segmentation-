@@ -18,7 +18,7 @@ SouthFoods/
 │   ├── food2/
 │   └── ...
 
-
+```
 ## Run This Project on Google Colab
 
 You can directly run and test this project on Google Colab using the link below:
